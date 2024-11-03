@@ -1,0 +1,2 @@
+# Earnings_Stock_Pattern_Screener
+ The goal of the Earnings Stock Pattern Screener is to allow users to find consistent patterns in stock trading activity around earnings releases, over the course of the last 3 years. Search through stocks to see if there are notable trends in the stock price movement either before or after earnings -- choose from 13 different timeframes around the earnings release.
