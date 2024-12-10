@@ -1,7 +1,10 @@
-yfinance~=0.2.46
+yfinance~=0.2.50
 pandas~=1.4.0
 plotly~=5.24.1
 dash~=2.18.1
 dash-bootstrap-components~=1.6.0
 dash-bootstrap-templates~=1.2.4
 plotly-resampler~=0.10.0
+requests~=2.31.0
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
